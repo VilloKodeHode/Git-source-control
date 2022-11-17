@@ -1,3 +1,5 @@
 dette er en tutorial for git
 
 dette er addet
+
+enda et add
